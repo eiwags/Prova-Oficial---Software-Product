@@ -9,7 +9,7 @@ Aumentar o ticket médio e a conversão de vendas por meio de sugestões intelig
 ## 🧱 Estrutura do Projeto
 
 - `der.sql` — Modelo relacional do banco de dados
-- `modelo_dados.png` — Diagrama Entidade-Relacionamento
+- `der_modelo_de_dados.png` — Diagrama Entidade-Relacionamento
 
 ## 🔄 Fluxo da Funcionalidade
 
